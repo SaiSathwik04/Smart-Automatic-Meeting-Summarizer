@@ -1,0 +1,12 @@
+librosa
+soundfile
+SpeechRecognition
+streamlit
+nltk
+spacy
+transformers
+scikit-learn
+fpdf
+pydub
+torch
+numpy
